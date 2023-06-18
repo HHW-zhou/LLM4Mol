@@ -117,7 +117,7 @@ Hie, Brian L., Varun R. Shanker, Duo Xu, Theodora UJ Bruun, Payton A. Weidenbach
 
 * **AbLang: an antibody language model for completing antibody sequences** [2022]  
 Olsen, Tobias H., Iain H. Moal, and Charlotte M. Deane.  
-[Paper](https://doi.org/10.1093/bioadv/vbac046) |  [code](https://github.com/oxpig/AbLang) 
+[Bioinformatics Advances (2022)](https://doi.org/10.1093/bioadv/vbac046) |  [code](https://github.com/oxpig/AbLang) 
 
 
 
