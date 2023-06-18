@@ -24,6 +24,11 @@ LLM(Large Language Model)4Mol is a comprehensive repository dedicated to the col
 
 ## LLM4Small Molecule
 
+
+
+
+
+
 * **Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models** [2023]  
  Yin Fang, Xiaozhuan Liang, Ningyu Zhang, Kangwei Liu, Rui Huang, Zhuo Chen, Xiaohui Fan, Huajun Chen   
   [Paper](https://arxiv.org/abs/2306.08018) |  [code](https://github.com/zjunlp/Mol-Instructions) 
@@ -31,6 +36,7 @@ LLM(Large Language Model)4Mol is a comprehensive repository dedicated to the col
 * **MolReGPT: Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective** [2023]  
 Li, Jiatong, Yunqing Liu, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, and Qing Li.  
 [Paper](https://arxiv.org/abs/2306.06615) |  [code](https://github.com/phenixace/MolReGPT) 
+
 
 
 
@@ -55,7 +61,9 @@ Ji, Yanrong, Zhihan Zhou, Han Liu, and Ramana V. Davuluri.
 ## LLM4Peptide
 
 
-
+* **LMPred: predicting antimicrobial peptides using pre-trained language models and deep learning** [2022]  
+Dee, William.  
+[Paper](https://doi.org/10.1093/bioadv/vbac021) |  [code](https://github.com/williamdee1/LMPred_AMP_Prediction) 
 
 
 
