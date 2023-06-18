@@ -42,6 +42,16 @@ Li, Jiatong, Yunqing Liu, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, and Q
 
 
 
+* **DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome** [2021]  
+Ji, Yanrong, Zhihan Zhou, Han Liu, and Ramana V. Davuluri.  
+[Paper](https://doi.org/10.1093/bioinformatics/btab083) |  [code](https://github.com/jerryji1993/DNABERT) 
+
+
+
+
+
+
+
 ## LLM4Peptide
 
 
