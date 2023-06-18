@@ -65,7 +65,9 @@ Madani, Ali, Ben Krause, Eric R. Greene, Subu Subramanian, Benjamin P. Mohr, Jam
 
 ## LLM4Material Discovery
 
-
+* **Large Language Models as Master Key: Unlocking the Secrets of Materials Science with GPT** [2023]  
+Xie, Tong, Yuwei Wa, Wei Huang, Yufei Zhou, Yixuan Liu, Qingyuan Linghu, Shaozhou Wang, Chunyu Kit, Clara Grazian, and Bram Hoex.  
+[Paper](https://arxiv.org/abs/2304.02213) 
 
 * **MatSciBERT: A materials domain language model for text mining and information extraction** [2022]  
 Gupta, Tanishq, Mohd Zaki, NM Anoop Krishnan, and Mausam.   
