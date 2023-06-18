@@ -11,6 +11,10 @@ LLM4Mol is a comprehensive repository dedicated to the collection and exploratio
 
 
 
+* **MolReGPT: Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective** [2023]  
+Li, Jiatong, Yunqing Liu, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, and Qing Li.  
+[Paper](https://arxiv.org/abs/2306.06615) |  [code](https://github.com/phenixace/MolReGPT) 
+
 
 
 # LLM4Protein
