@@ -11,7 +11,7 @@
   - [LLM4Peptide](#LLM4Peptide)
   - [LLM4Protein](#LLM4Protein)
   - [LLM4Antibody](#LLM4Antibody)
-  - [LLM4Material Discovery](#LLM4Material-Discovery)
+  - [LLM4Material](#LLM4Material)
 
 
 
@@ -113,7 +113,7 @@ Olsen, Tobias H., Iain H. Moal, and Charlotte M. Deane.
 [Paper](https://doi.org/10.1093/bioadv/vbac046) |  [code](https://github.com/oxpig/AbLang) 
 
 
-## LLM4Material Discovery
+## LLM4Material
 
 * **Large Language Models as Master Key: Unlocking the Secrets of Materials Science with GPT** [2023]  
 Xie, Tong, Yuwei Wa, Wei Huang, Yufei Zhou, Yixuan Liu, Qingyuan Linghu, Shaozhou Wang, Chunyu Kit, Clara Grazian, and Bram Hoex.  
