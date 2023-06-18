@@ -3,6 +3,13 @@ LLM(Large Language Model)4Mol is a comprehensive repository dedicated to the col
 
 
 
+## LLM4Biomedical Science
+
+
+* **BiomedGPT: A Unified and Generalist Biomedical Generative Pre-trained Transformer for Vision, Language, and Multimodal Tasks** [2023]  
+ Zhang, K., Yu, J., Yan, Z., Liu, Y., Adhikarla, E., Fu, S., ... & Sun, L.   
+  [Paper](https://arxiv.org/abs/2305.17100) |  [code](https://github.com/taokz/BiomedGPT) 
+
 
 
 
@@ -21,5 +28,7 @@ Li, Jiatong, Yunqing Liu, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, and Q
 
 ## LLM4Protein
 
-
+* **Large language models generate functional protein sequences across diverse families** [2023]  
+Madani, Ali, Ben Krause, Eric R. Greene, Subu Subramanian, Benjamin P. Mohr, James M. Holton, Jose Luis Olmos Jr et al.  
+[Paper](https://doi.org/10.1038/s41587-022-01618-2) |  [code](https://github.com/salesforce/progen) 
 
