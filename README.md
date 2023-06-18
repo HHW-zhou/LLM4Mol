@@ -107,7 +107,9 @@ Madani, Ali, Ben Krause, Eric R. Greene, Subu Subramanian, Benjamin P. Mohr, Jam
 
 ## LLM4Antibody
 
-
+* **On Pre-training Language Model for Antibody** [2023]  
+Wang, Danqing, Y. E. Fei, and Hao Zhou.  
+[ICLR (2023)](https://openreview.net/forum?id=zaq4LV55xHl) |  [code](https://github.com/dqwang122/EATLM) 
 
 * **Efficient evolution of human antibodies from general protein language models** [2023]  
 Hie, Brian L., Varun R. Shanker, Duo Xu, Theodora UJ Bruun, Payton A. Weidenbacher, Shaogeng Tang, Wesley Wu, John E. Pak, and Peter S. Kim.  
