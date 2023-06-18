@@ -100,7 +100,7 @@ Dee, William.
 
 * **Large language models generate functional protein sequences across diverse families** [2023]  
 Madani, Ali, Ben Krause, Eric R. Greene, Subu Subramanian, Benjamin P. Mohr, James M. Holton, Jose Luis Olmos Jr et al.  
-[Paper](https://doi.org/10.1038/s41587-022-01618-2) |  [code](https://github.com/salesforce/progen) 
+[Nat Biotechnol (2023)](https://doi.org/10.1038/s41587-022-01618-2) |  [code](https://github.com/salesforce/progen) 
 
 
 
