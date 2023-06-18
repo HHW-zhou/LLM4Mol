@@ -5,7 +5,7 @@
 
 ## Menu
 
-  - [LLM4Biomedical Science](#LLM4Biomedical-Science)
+  - [LLM4Biomedical Text](#LLM4Biomedical-Text)
   - [LLM4Small Molecule](#LLM4Small-Molecule)
   - [LLM4RNA/DNA](#LLM4RNADNA)
   - [LLM4Peptide](#LLM4Peptide)
@@ -16,7 +16,7 @@
 
 
 
-## LLM4Biomedical Science
+## LLM4Biomedical Text
 
 * **Fine-tuning large neural language models for biomedical natural language processing** [2023]  
  Tinn, Robert, Hao Cheng, Yu Gu, Naoto Usuyama, Xiaodong Liu, Tristan Naumann, Jianfeng Gao, and Hoifung Poon.   
