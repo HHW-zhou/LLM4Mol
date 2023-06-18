@@ -18,12 +18,24 @@ LLM(Large Language Model)4Mol is a comprehensive repository dedicated to the col
 
 ## LLM4Biomedical Science
 
+* **Fine-tuning large neural language models for biomedical natural language processing** [2023]  
+ Tinn, Robert, Hao Cheng, Yu Gu, Naoto Usuyama, Xiaodong Liu, Tristan Naumann, Jianfeng Gao, and Hoifung Poon.   
+  [Paper](https://doi.org/10.1016/j.patter.2023.100729) |  [code](https://aka.ms/huggingface) 
+
+* **A Platform for the Biomedical Application of Large Language Models** [2023]  
+ Lobentanzer, Sebastian, and Julio Saez-Rodriguez.   
+  [Paper](https://arxiv.org/abs/2305.06488) |  [code](https://github.com/biocypher/ChatGSE) 
+
+* **Large language models in biomedical natural language processing: benchmarks, baselines, and recommendations** [2023]  
+ Chen, Qingyu, Jingcheng Du, Yan Hu, Vipina Kuttichi Keloth, Xueqing Peng, Kalpana Raja, Rui Zhang, Zhiyong Lu, and Hua Xu.   
+  [Paper](https://arxiv.org/abs/2305.16326) |  [code](https://github.com/qingyu-qc/gpt_bionlp_benchmark) 
 
 * **BiomedGPT: A Unified and Generalist Biomedical Generative Pre-trained Transformer for Vision, Language, and Multimodal Tasks** [2023]  
  Zhang, K., Yu, J., Yan, Z., Liu, Y., Adhikarla, E., Fu, S., ... & Sun, L.   
   [Paper](https://arxiv.org/abs/2305.17100) |  [code](https://github.com/taokz/BiomedGPT) 
 
-
+* **BioMedLM: a Domain-Specific Large Language Model for Biomedical Text** [2022]  
+  [Paper](https://www.mosaicml.com/blog/introducing-pubmed-gpt) |  [code](https://huggingface.co/stanford-crfm/BioMedLM) 
 
 
 
