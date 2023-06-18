@@ -111,7 +111,7 @@ Madani, Ali, Ben Krause, Eric R. Greene, Subu Subramanian, Benjamin P. Mohr, Jam
 
 * **Efficient evolution of human antibodies from general protein language models** [2023]  
 Hie, Brian L., Varun R. Shanker, Duo Xu, Theodora UJ Bruun, Payton A. Weidenbacher, Shaogeng Tang, Wesley Wu, John E. Pak, and Peter S. Kim.  
-[Nat Biotechnol](https://www.nature.com/articles/s41587-023-01763-2) |  [code](https://github.com/brianhie/efficient-evolution) 
+[Nat Biotechnol(2023)](https://www.nature.com/articles/s41587-023-01763-2) |  [code](https://github.com/brianhie/efficient-evolution) 
 
 * **AbLang: an antibody language model for completing antibody sequences** [2022]  
 Olsen, Tobias H., Iain H. Moal, and Charlotte M. Deane.  
