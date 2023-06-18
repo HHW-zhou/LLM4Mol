@@ -9,7 +9,9 @@ LLM(Large Language Model)4Mol is a comprehensive repository dedicated to the col
 
 # LLM4Small Molecule
 
-
+* **Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models** [2023]  
+ Yin Fang, Xiaozhuan Liang, Ningyu Zhang, Kangwei Liu, Rui Huang, Zhuo Chen, Xiaohui Fan, Huajun Chen   
+  [Paper](https://arxiv.org/abs/2306.08018) |  [code](https://github.com/zjunlp/Mol-Instructions) 
 
 * **MolReGPT: Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective** [2023]  
 Li, Jiatong, Yunqing Liu, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, and Qing Li.  
