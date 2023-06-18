@@ -68,7 +68,9 @@ Madani, Ali, Ben Krause, Eric R. Greene, Subu Subramanian, Benjamin P. Mohr, Jam
 ## LLM4Antibody
 
 
-
+* **AbLang: an antibody language model for completing antibody sequences** [2022]  
+Olsen, Tobias H., Iain H. Moal, and Charlotte M. Deane.  
+[Paper](https://doi.org/10.1093/bioadv/vbac046) |  [code](https://github.com/oxpig/AbLang) 
 
 
 ## LLM4Material Discovery
