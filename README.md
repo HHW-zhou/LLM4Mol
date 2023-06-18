@@ -7,7 +7,7 @@ LLM(Large Language Model)4Mol is a comprehensive repository dedicated to the col
 
   - [LLM4Biomedical Science](#LLM4Biomedical-Science)
   - [LLM4Small Molecule](#LLM4Small-Molecule)
-  - [LLM4RNA/DNA](#LLM4RNA/DNA)
+  - [LLM4RNA/DNA](#LLM4RNADNA)
   - [LLM4Peptide](#LLM4Peptide)
   - [LLM4Protein](#LLM4Protein)
   - [LLM4Antibody](#LLM4Antibody)
