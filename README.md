@@ -22,6 +22,8 @@ https://github.com/Peldom/papers_for_protein_design_using_DL
   - [LLM4Peptide](#LLM4Peptide)
   - [LLM4Protein](#LLM4Protein)
   - [LLM4Antibody](#LLM4Antibody)
+  - [LLM4Clinical](#LLM4Clinical)
+  - [LLM4Chemistry](#LLM4Chemistry)
   - [LLM4Material](#LLM4Material)
 
 
