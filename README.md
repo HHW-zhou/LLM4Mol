@@ -60,7 +60,9 @@ https://github.com/Peldom/papers_for_protein_design_using_DL
 
 
 
-
+* **Enhancing Activity Prediction Models in Drug Discovery with the Ability to Understand Human Language** [2023]  
+ Yin Fang, Xiaozhuan Liang, Ningyu Zhang, Kangwei Liu, Rui Huang, Zhuo Chen, Xiaohui Fan, Huajun Chen   
+  [arXiv:2303.03363 (2023)](https://arxiv.org/abs/2303.03363) |  [code](https://github.com/ml-jku/clamp) 
 
 * **Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models** [2023]  
  Yin Fang, Xiaozhuan Liang, Ningyu Zhang, Kangwei Liu, Rui Huang, Zhuo Chen, Xiaohui Fan, Huajun Chen   
@@ -107,7 +109,9 @@ Dee, William.
 
 
 
-
+* **Prediction of virus-host association using protein language models and multiple instance learning** [2023]  
+ Liu, Dan, Francesca Young, David L. Robertson, and Ke Yuan.   
+  [bioRxiv (2023)](https://www.biorxiv.org/content/10.1101/2023.04.07.536023v2) |  [code](https://github.com/liudan111/EvoMIL) 
 
 * **Large language models generate functional protein sequences across diverse families** [2023]  
 Madani, Ali, Ben Krause, Eric R. Greene, Subu Subramanian, Benjamin P. Mohr, James M. Holton, Jose Luis Olmos Jr et al.  
