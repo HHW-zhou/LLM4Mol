@@ -20,19 +20,19 @@
 
 * **Fine-tuning large neural language models for biomedical natural language processing** [2023]  
  Tinn, Robert, Hao Cheng, Yu Gu, Naoto Usuyama, Xiaodong Liu, Tristan Naumann, Jianfeng Gao, and Hoifung Poon.   
-  [Paper](https://doi.org/10.1016/j.patter.2023.100729) |  [code](https://aka.ms/huggingface) 
+  [Patterns 4.4 (2023)](https://doi.org/10.1016/j.patter.2023.100729) |  [code](https://aka.ms/huggingface) 
 
 * **A Platform for the Biomedical Application of Large Language Models** [2023]  
  Lobentanzer, Sebastian, and Julio Saez-Rodriguez.   
-  [Paper](https://arxiv.org/abs/2305.06488) |  [code](https://github.com/biocypher/ChatGSE) 
+  [arXiv:2305.06488v2](https://arxiv.org/abs/2305.06488) |  [code](https://github.com/biocypher/ChatGSE) 
 
 * **Large language models in biomedical natural language processing: benchmarks, baselines, and recommendations** [2023]  
  Chen, Qingyu, Jingcheng Du, Yan Hu, Vipina Kuttichi Keloth, Xueqing Peng, Kalpana Raja, Rui Zhang, Zhiyong Lu, and Hua Xu.   
-  [Paper](https://arxiv.org/abs/2305.16326) |  [code](https://github.com/qingyu-qc/gpt_bionlp_benchmark) 
+  [arXiv:2305.16326v1](https://arxiv.org/abs/2305.16326) |  [code](https://github.com/qingyu-qc/gpt_bionlp_benchmark) 
 
 * **BiomedGPT: A Unified and Generalist Biomedical Generative Pre-trained Transformer for Vision, Language, and Multimodal Tasks** [2023]  
  Zhang, K., Yu, J., Yan, Z., Liu, Y., Adhikarla, E., Fu, S., ... & Sun, L.   
-  [Paper](https://arxiv.org/abs/2305.17100) |  [code](https://github.com/taokz/BiomedGPT) 
+  [arXiv:2305.17100v1](https://arxiv.org/abs/2305.17100) |  [code](https://github.com/taokz/BiomedGPT) 
 
 * **BioMedLM: a Domain-Specific Large Language Model for Biomedical Text** [2022]  
   [Paper](https://www.mosaicml.com/blog/introducing-pubmed-gpt) |  [code](https://huggingface.co/stanford-crfm/BioMedLM) 
@@ -53,11 +53,11 @@
 
 * **Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models** [2023]  
  Yin Fang, Xiaozhuan Liang, Ningyu Zhang, Kangwei Liu, Rui Huang, Zhuo Chen, Xiaohui Fan, Huajun Chen   
-  [Paper](https://arxiv.org/abs/2306.08018) |  [code](https://github.com/zjunlp/Mol-Instructions) 
+  [arXiv:2306.08018v1](https://arxiv.org/abs/2306.08018) |  [code](https://github.com/zjunlp/Mol-Instructions) 
 
 * **MolReGPT: Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective** [2023]  
 Li, Jiatong, Yunqing Liu, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, and Qing Li.  
-[Paper](https://arxiv.org/abs/2306.06615) |  [code](https://github.com/phenixace/MolReGPT) 
+[arXiv:2306.06615v1](https://arxiv.org/abs/2306.06615) |  [code](https://github.com/phenixace/MolReGPT) 
 
 
 
@@ -72,7 +72,7 @@ Li, Jiatong, Yunqing Liu, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, and Q
 
 * **DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome** [2021]  
 Ji, Yanrong, Zhihan Zhou, Han Liu, and Ramana V. Davuluri.  
-[Paper](https://doi.org/10.1093/bioinformatics/btab083) |  [code](https://github.com/jerryji1993/DNABERT) 
+[Bioinformatics 37.15 (2021)](https://doi.org/10.1093/bioinformatics/btab083) |  [code](https://github.com/jerryji1993/DNABERT) 
 
 
 
@@ -85,7 +85,7 @@ Ji, Yanrong, Zhihan Zhou, Han Liu, and Ramana V. Davuluri.
 
 * **LMPred: predicting antimicrobial peptides using pre-trained language models and deep learning** [2022]  
 Dee, William.  
-[Paper](https://doi.org/10.1093/bioadv/vbac021) |  [code](https://github.com/williamdee1/LMPred_AMP_Prediction) 
+[Bioinformatics Advances 2.1 (2022)](https://doi.org/10.1093/bioadv/vbac021) |  [code](https://github.com/williamdee1/LMPred_AMP_Prediction) 
 
 
 
@@ -127,11 +127,11 @@ Olsen, Tobias H., Iain H. Moal, and Charlotte M. Deane.
 
 * **Large Language Models as Master Key: Unlocking the Secrets of Materials Science with GPT** [2023]  
 Xie, Tong, Yuwei Wa, Wei Huang, Yufei Zhou, Yixuan Liu, Qingyuan Linghu, Shaozhou Wang, Chunyu Kit, Clara Grazian, and Bram Hoex.  
-[Paper](https://arxiv.org/abs/2304.02213) 
+[arXiv:2304.02213v5](https://arxiv.org/abs/2304.02213) 
 
 * **MatSciBERT: A materials domain language model for text mining and information extraction** [2022]  
 Gupta, Tanishq, Mohd Zaki, NM Anoop Krishnan, and Mausam.   
-[Paper](https://www.nature.com/articles/s41524-022-00784-w) |  [code](https://github.com/M3RG-IITD/MatSciBERT) 
+[npj Comput Mater 8, 102 (2022)](https://www.nature.com/articles/s41524-022-00784-w) |  [code](https://github.com/M3RG-IITD/MatSciBERT) 
 
 
 
