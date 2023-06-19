@@ -3,6 +3,17 @@
 
 
 
+
+**🔔Updating ...**  
+## Recommendations and references
+
+**Generative AI and Deep Learning for molecular/drug design**   
+https://github.com/AspirinCode/papers-for-molecular-design-using-DL
+
+**List of papers about Proteins Design using Deep Learning**  
+https://github.com/Peldom/papers_for_protein_design_using_DL
+
+
 ## Menu
 
   - [LLM4Biomedical Text](#LLM4Biomedical-Text)
