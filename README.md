@@ -72,9 +72,7 @@ https://github.com/Peldom/papers_for_protein_design_using_DL
 Li, Jiatong, Yunqing Liu, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, and Qing Li.  
 [arXiv:2306.06615v1](https://arxiv.org/abs/2306.06615) |  [code](https://github.com/phenixace/MolReGPT) 
 
-* **ChemCrow: Augmenting large-language models with chemistry tools** [2023]  
-Bran, Andres M., Sam Cox, Andrew D. White, and Philippe Schwaller.  
-[arXiv:2304.05376 (2023)](https://arxiv.org/abs/2304.05376) |  [code](https://github.com/ur-whitelab/chemcrow-public) 
+
 
 
 ## LLM4RNA/DNA
@@ -149,6 +147,18 @@ Olsen, Tobias H., Iain H. Moal, and Charlotte M. Deane.
 * **ClinicalGPT: Large Language Models Finetuned with Diverse Medical Data and Comprehensive Evaluation** [2023]  
 Wang, Danqing, Y. E. Fei, and Hao Zhou.  
 [arXiv:2306.09968v1](https://arxiv.org/abs/2306.09968) 
+
+
+
+
+
+
+## LLM4Chemistry
+
+
+* **ChemCrow: Augmenting large-language models with chemistry tools** [2023]  
+Bran, Andres M., Sam Cox, Andrew D. White, and Philippe Schwaller.  
+[arXiv:2304.05376 (2023)](https://arxiv.org/abs/2304.05376) |  [code](https://github.com/ur-whitelab/chemcrow-public) 
 
 
 
