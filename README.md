@@ -107,7 +107,9 @@ Dee, William.
 
 
 
-
+* **Protein-Protein Interaction Prediction is Achievable with Large Language Models** [2023]  
+ Hallee, Logan, and Jason P. Gleghorn.   
+  [bioRxiv (2023)](https://doi.org/10.1101/2023.06.07.544109) 
 
 * **Prediction of virus-host association using protein language models and multiple instance learning** [2023]  
  Liu, Dan, Francesca Young, David L. Robertson, and Ke Yuan.   
