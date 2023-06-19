@@ -134,6 +134,18 @@ Olsen, Tobias H., Iain H. Moal, and Charlotte M. Deane.
 
 
 
+
+## LLM4Clinical
+
+
+* **ClinicalGPT: Large Language Models Finetuned with Diverse Medical Data and Comprehensive Evaluation** [2023]  
+Wang, Danqing, Y. E. Fei, and Hao Zhou.  
+[arXiv:2306.09968v1](https://arxiv.org/abs/2306.09968) 
+
+
+
+
+
 ## LLM4Material
 
 * **Large Language Models as Master Key: Unlocking the Secrets of Materials Science with GPT** [2023]  
