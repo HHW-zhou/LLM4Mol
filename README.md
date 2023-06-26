@@ -31,6 +31,12 @@ https://github.com/Peldom/papers_for_protein_design_using_DL
 
 ## LLM4Biomedical Text
 
+
+
+* **Large language models are universal biomedical simulators** [2023]   
+ Schaefer, Moritz, Stephan Reichl, Rob ter Horst, Adele M. Nicolas, Thomas Krausgruber, Francesco Piras, Peter Stepper, Christoph Bock, and Matthias Samwald.   
+  [bioRxiv (2023)](https://doi.org/10.1101/2023.06.16.545235) |  [code](https://github.com/OpenBioLink/SimulateGPT) 
+
 * **Fine-tuning large neural language models for biomedical natural language processing** [2023]  
  Tinn, Robert, Hao Cheng, Yu Gu, Naoto Usuyama, Xiaodong Liu, Tristan Naumann, Jianfeng Gao, and Hoifung Poon.   
   [Patterns 4.4 (2023)](https://doi.org/10.1016/j.patter.2023.100729) |  [code](https://aka.ms/huggingface) 
