@@ -94,7 +94,9 @@ Li, Jiatong, Yunqing Liu, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, and Q
 
 
 
-
+* **HyenaDNA: Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution** [2023]  
+Eric Nguyen, Michael Poli, Marjan Faizi, Armin Thomas, Callum Birch-Sykes, Michael Wornow, Aman Patel, Clayton Rabideau, Stefano Massaroli, Yoshua Bengio, Stefano Ermon, Stephen A. Baccus, Chris Ré.  
+[arXiv:2306.15794v1](https://arxiv.org/abs//2306.15794)
 
 * **DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome** [2021]  
 Ji, Yanrong, Zhihan Zhou, Han Liu, and Ramana V. Davuluri.  
