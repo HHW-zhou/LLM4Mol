@@ -33,6 +33,11 @@ https://github.com/Peldom/papers_for_protein_design_using_DL
 
 
 
+
+* **Opportunities and Challenges for ChatGPT and Large Language Models in Biomedicine and Health** [2023]   
+ Tian, Shubo, Qiao Jin, Lana Yeganova, Po-Ting Lai, Qingqing Zhu, Xiuying Chen, Yifan Yang et al.   
+  [arXiv:2306.10070 (2023)](https://arxiv.org/abs/2306.10070) 
+
 * **Large language models are universal biomedical simulators** [2023]   
  Schaefer, Moritz, Stephan Reichl, Rob ter Horst, Adele M. Nicolas, Thomas Krausgruber, Francesco Piras, Peter Stepper, Christoph Bock, and Matthias Samwald.   
   [bioRxiv (2023)](https://doi.org/10.1101/2023.06.16.545235) |  [code](https://github.com/OpenBioLink/SimulateGPT) 
