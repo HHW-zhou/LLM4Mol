@@ -70,8 +70,9 @@ https://github.com/Peldom/papers_for_protein_design_using_DL
 
 ## LLM4Small Molecule
 
-
-
+* **Empowering Molecule Discovery for Molecule-Caption Translation with LargeLanguage Models: A ChatGPT Perspective** [2023]  
+Jiatong Li, Yunqing Liu, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, Qing Li   
+  [arXiv:2306.06615 (2023)](https://arxiv.org/pdf/2306.06615.pdf) |  [code](https://github.com/phenixace/MolReGPT) 
 
 * **Enhancing Activity Prediction Models in Drug Discovery with the Ability to Understand Human Language** [2023]  
  Yin Fang, Xiaozhuan Liang, Ningyu Zhang, Kangwei Liu, Rui Huang, Zhuo Chen, Xiaohui Fan, Huajun Chen   
