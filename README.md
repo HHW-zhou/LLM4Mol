@@ -160,6 +160,11 @@ Olsen, Tobias H., Iain H. Moal, and Charlotte M. Deane.
 ## LLM4Clinical
 
 
+
+* **Matching Patients to Clinical Trials with Large Language Models** [2023]  
+Jin, Qiao, Zifeng Wang, Charalampos S. Floudas, Jimeng Sun, and Zhiyong Lu.   
+[arXiv:2307.15051 (2023)](https://arxiv.org/abs/2307.15051) 
+
 * **ClinicalGPT: Large Language Models Finetuned with Diverse Medical Data and Comprehensive Evaluation** [2023]  
 Wang, Danqing, Y. E. Fei, and Hao Zhou.  
 [arXiv:2306.09968v1](https://arxiv.org/abs/2306.09968) 
