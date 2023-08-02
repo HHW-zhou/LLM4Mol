@@ -13,6 +13,9 @@ https://github.com/AspirinCode/papers-for-molecular-design-using-DL
 **List of papers about Proteins Design using Deep Learning**  
 https://github.com/Peldom/papers_for_protein_design_using_DL
 
+**Large Language Models in Chemistry**  
+https://github.com/alxfgh/Large-Language-Models-in-Chemistry  
+
 
 ## Menu
 
